@@ -1,0 +1,48 @@
+{
+  "_from": "cordova-plugin-easyannotation",
+  "_id": "cordova-plugin-easyannotation@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-6JVkKRlrB+NvVGie1kVncIZnmMBvSmlGP+cDimsDMN56BTs3nCMaj7h4RnuY0FQLyErgV965sjY1R9XsGcUzmg==",
+  "_location": "/cordova-plugin-easyannotation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-easyannotation",
+    "name": "cordova-plugin-easyannotation",
+    "escapedName": "cordova-plugin-easyannotation",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-easyannotation/-/cordova-plugin-easyannotation-1.0.2.tgz",
+  "_shasum": "965c9a52c8486d89e9f01628d3f6868fad711260",
+  "_spec": "cordova-plugin-easyannotation",
+  "_where": "C:\\Users\\Admin\\Documents\\Cordova_Apps\\Multicare",
+  "author": {
+    "name": "Easy Annotation Software"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-easyannotation",
+    "platforms": []
+  },
+  "deprecated": false,
+  "description": "EasyAnnotation Plugin",
+  "homepage": "http://easyannotation.com",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows",
+    "image annotation",
+    "easy-annotation",
+    "javascript"
+  ],
+  "name": "cordova-plugin-easyannotation",
+  "version": "1.0.2"
+}
